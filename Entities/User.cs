@@ -12,7 +12,7 @@ namespace Entities
 
         public string? Username { get; set; }
 
-        public int PositionId { get; set; }
+        public int UserTypeId { get; set; }
 
         public int CompanyId { get; set; }
     }

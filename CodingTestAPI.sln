@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{37248E28-0770-4F03-870F-2511A67D44D6}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "XCompanyDatabase", "XCompanyDatabase\XCompanyDatabase.sqlproj", "{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,12 @@ Global
 		{37248E28-0770-4F03-870F-2511A67D44D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37248E28-0770-4F03-870F-2511A67D44D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37248E28-0770-4F03-870F-2511A67D44D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254BA562-E60E-4AB0-98DF-6AFBA1ECC101}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
